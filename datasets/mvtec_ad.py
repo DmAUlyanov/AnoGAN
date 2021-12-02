@@ -14,7 +14,7 @@ class DatasetType(Enum):
 
 class MVTEC_AD(Dataset):
     r"""
-    http://www.timeseriesclassification.com/description.php?Dataset=ECG5000
+    https://www.mvtec.com/company/research/datasets/mvtec-ad
     """
 
     class DataClass(Enum):
